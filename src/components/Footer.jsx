@@ -7,7 +7,7 @@ const Footer = () => {
         <section className={`${styles.flexCenter} ${styles.paddingY} flex-col`}>
             <div className={`${styles.flexStart} md:flex-row flex-col mb-6 w-full`}>
                 <div className="flex flex-1 flex-col justify-start mr-10">
-                    <img src={logo} alt="ExoBank" className="w-[220px] h-[100px]" />
+                    <img src={logo} alt="ExoBank" className="w-[220px] h-[87px]" />
                     <p className={`${styles.paragraph} mt-2 max-w-[310px]`}>
                         A new way to make payments easy, reliable and secure.
                     </p>
