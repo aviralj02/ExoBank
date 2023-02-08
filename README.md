@@ -5,6 +5,7 @@ A modern responsive bank landing page built with [Vite](https://vitejs.dev/) an
 ![preview](./src/assets/preview.png)
 
 ## 🌐 Hosted URL
+[Click here](https://exo-bank.vercel.app/)
 
 ## 👨‍💻Tech Stack
 * [React](https://reactjs.org)
